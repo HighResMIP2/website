@@ -332,7 +332,7 @@ H. T. Hewitt, M. J. Bell, E. P. Chassignet, A. Czaja, D. Ferreira, S. M. Griffie
 R. J. Haarsma, M. Roberts, P. L. Vidale, C. A. Senior, A. Bellucci, Q. Bao, P. Chang, S. Corti, N. S. Fučkar, V. Guemas, J. von Hardenberg, W. Hazeleger, C. Kodama, T. Koenigk, L. R. Leung, J. Lu, J.-J. Luo, J. Mao, M. S. Mizielinski, R. Mizuta, P. Nobre, M. Satoh, E. Scoccimarro, T. Semmler, J. Small, J.-S. von Storch, 2016: High resolution model intercomparison project (HighResMIP). Geoscientifc Model Development. [https://doi.org/10.5194/gmd-9-4185-2016](https://doi.org/10.5194/gmd-9-4185-2016)
 
 
-## Submitted/in prep (3)
+## Submitted/in prep (4)
 Chen, X., Zhou, T., Wu, P., Roberts, M.J., 2024: Better resolved orography improves precipitation simulation over the Tibetan Plateau in high-resolution models. J. Geophy. Res. (Atmos), revised.
 
 Lockwood, J.F., Athanasiadis, P., Baker, A.J., Hodges, K., Priestley, M.D.K, Roberts, M., Scaife, A.A., Vidale, P. L., Zappa, G., 2024: The effect of increased model resolution on the Northern Hemisphere winter mid-latitude storm track: An equatorward shift due to contraction of the Hadley cell. J. Clim., submitted.
