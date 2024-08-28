@@ -8,8 +8,24 @@ The following are publications known to include results using CMIP6 HighResMIP m
 
 
 ## Published
-### 2024 ()
+### 2024 (9)
+Bokri, A., and Salimun, E., 2024: Future projection of extreme rainfall over Malaysia using HighResMIP (CMIP6) during boreal winter and summer. The Proceedings of The International Conference on Climate Change, 8(1), 22–35. [https://doi.org/10.17501/2513258X.2024.8103](https://doi.org/10.17501/2513258X.2024.8103).
 
+Bower, E. and Reed, K.A, 2024: Using high resolution climate models to explore future changes in post-tropical cyclone precipitation. Environ. Res. Lett. 19. [https://doi.org/10.1088/1748-9326/ad2163](https://doi.org/10.1088/1748-9326/ad2163)
+
+Chen, K., Hong, C., Tsou, C., and Wu, D., 2024: Present Climate and Future Changes in the Annual Cycle of TC Activity in the WNP Investigated by HighResMIP GCMs. J. Climate, 37, 4775–4791. [https://doi.org/10.1175/JCLI-D-24-0048.1](https://doi.org/10.1175/JCLI-D-24-0048.1)
+
+Gao, J., Minobe, S., Roberts, M.J. et al, 2024: Projected future changes in bomb cyclones by the HighResMIP-PRIMAVERA multimodel ensemble. Clim. Dyn. [https://doi.org/10.1007/s00382-024-07327-7](https://doi.org/10.1007/s00382-024-07327-7)
+
+Li, Z., Zhou, W, 2024: Poleward migration of tropical cyclones over the western North Pacific in the CMIP6-HighResMIP models constrained by observations. npj Clim Atmos Sci 7, 161. [https://doi.org/10.1038/s41612-024-00704-3](https://doi.org/10.1038/s41612-024-00704-3).
+
+Negron-Juarez, R., Wehner, M., Silva Dias, A.M.F., Ullrich, P., Chambers, J. and Riley, W.J.: Coupled Model Intercomparison Project Phase 6 (CMIP6) High Resolution Model Intercomparison Project (HighResMIP) Bias in Extreme Rainfall Drives Underestimation of Amazonian Precipitation. Env. Res. Comms. [https://doi.org/10.1088/2515-7620/ad6ff9](https://doi.org/10.1088/2515-7620/ad6ff9)
+
+Selivanova, J., Iovino, D., and Cocetta, F., 2024: Past and future of the Arctic sea ice in High-Resolution Model Intercomparison Project (HighResMIP) climate models, The Cryosphere, 18, 2739–2763. [https://doi.org/10.5194/tc-18-2739-2024](https://doi.org/10.5194/tc-18-2739-2024).
+
+Selivanova, J., Iovino, D., & Vichi, M., 2024: Limited benefits of increased spatial resolution for sea ice in HighResMIP simulations. Geophysical Research Letters, 51, e2023GL107969. [https://doi.org/10.1029/2023GL107969](https://doi.org/10.1029/2023GL107969)
+
+Williams, N.C., Scaife, A.A. & Screen, J.A., 2024: Effect of increased ocean resolution on model errors in El Niño–Southern Oscillation and its teleconnections. Quarterly Journal of the Royal Meteorological Society, 150(760), 1489–1500. [https://doi.org/10.1002/qj.4655](https://doi.org/10.1002/qj.4655)
 
 ### 2023 (20)
 Akhter, S., Holloway, C.E., Hodges, K. et al, 2023: How well do high-resolution Global Climate Models (GCMs) simulate tropical cyclones in the Bay of Bengal?. Clim Dyn. [https://doi.org/10.1007/s00382-023-06745-3](https://doi.org/10.1007/s00382-023-06745-3)
@@ -53,7 +69,7 @@ Smith, I.H., Williams, P.D. & Schiemann, R., 2023: Clear-air turbulence trends o
 Wang, S., Ma, X., Zhou, S. et al., 2023: Extreme atmospheric rivers in a warming climate. Nat Commun 14, 3219. [https://doi.org/10.1038/s41467-023-38980-x](https://doi.org/10.1038/s41467-023-38980-x)
 
 ## Published
-### 2022 (27)
+### 2022 (26)
 
 Athanasiadis, P. J., Ogawa, F., Omrani, N.-E., Keenlyside, N., Schiemann, R., Baker, A.J., Vidale, P.L., Bellucci, A., Ruggieri, P., Haarsma, R., Roberts, M., Roberts, C., Novak, L., Guialdi, S., 2022: Mitigating climate biases in the mid-latitude North Atlantic by increasing model resolution: SST gradients and their relation to blocking and the jet. J. Clim. [https://doi.org/10.1175/JCLI-D-21-0515.1](https://doi.org/10.1175/JCLI-D-21-0515.1).
 
@@ -108,7 +124,6 @@ Tsartsali, E. E., Haarsma, R. J., Athanasiadis, P. J., Bellucci, A., de Vries, H
 
 Zhao, M., 2022: A Study of AR-, TS-, and MCS-Associated Precipitation and Extreme Precipitation in Present and Warmer Climates. Journal of Climate, 35(2), 479-497. [https://doi.org/10.1175/JCLI-D-21-0145.1](https://doi.org/10.1175/JCLI-D-21-0145.1).
 
-
 ### 2021 (22)
 Bellucci, A., and Coauthors, 2021: Air-sea interactions over the Gulf Stream in an ensemble of HighResMIP present climate simulations. Clim. Dyn. [https://doi.org/10.1007/s00382-020-05573-z](https://doi.org/10.1007/s00382-020-05573-z).
 
@@ -124,7 +139,7 @@ Ineson, S., Dunstone, N.J., Ren, H.-L., Renshaw, R., Roberts, M.J., Scaife, A.A.
 
 Jinxiao Li, Qing Bao, Yimin Liu, Lei Wang, Jing Yang, Guoxiong Wu, Xiaofei Wu, Bian He, Xiaocong Wang, Xiaoqi Zhang, Yaoxian Yang, Zili Shen, 2021. Effect of Horizontal Resolution on the Simulation of Tropical Cyclones in the Chinese Academy of Sciences FGOALS-f3 Climate System Model. GMD. [https://doi.org/10.5194/gmd-2021-19](https://doi.org/10.5194/gmd-2021-19).
 
-Judt, F., D. Klocke, R. Rios-Berrios, B. Vanniere, F. Ziemen, L. Auger, J. Biercamp, C. Bretherton, X. Chen, P. Duben, C. Hohenegger, M. Khairoutdinov, C. Kodama, L. Kornblueh, S.-J. Lin, M. Nakano, P. Neumann, W. Putman, N. Röber, M. Roberts, M. Satoh, R. Shibuya, B. Stevens, P. L. Vidale, N. Wedi, L. Zhou, 2021: Tropical Cyclones in Global Storm-Resolving Models. J. Meteor. Soc. Japan. [https://doi.org/10.2151/jmsj.2021-029](https://doi.org/10.2151/jmsj.2021-029).
+Judt, F., D. Klocke, R. Rios-Berrios, B. Vanniere, F. Ziemen, L. Auger, J. Biercamp, C. Bretherton, X. Chen, P. Duben, C. Hohenegger, M. Khairoutdinov, C. Kodama, L. Kornblueh, S.-J. Lin, M. Nakano, P. Neumann, W. Putman, N. Röber, M. Roberts, M. Satoh, R. Shibuya, B. Stevens, P. L. Vidale, N. Wedi, L. Zhou, 2021: Tropical Cyclones in Global Storm-Resolving Models. J. Meteor. Soc. Japan. [https://doi.org/10.2151/jmsj.2021-029](https://doi.org/10.2151/jmsj.2021-029).
 
 Koenigk, T., Fuentes-Franco, R., Meccia, V.L. et al, 2021: Deep mixed ocean volume in the Labrador Sea in HighResMIP models. Clim Dyn, 57, 1895–1918. [https://doi.org/10.1007/s00382-021-05785-x](https://doi.org/10.1007/s00382-021-05785-x).
 
@@ -210,7 +225,7 @@ Qing BAO, Yimin LIU, Guoxiong WU, Bian HE, Jinxiao LI, Lei WANG, Xiaofei WU, Kan
 
 Roberts, M. J., J. Camp, J. Seddon, P. L. Vidale, K. Hodges, B. Vanniere, J. Mecking, R. Haarsma, A. Bellucci, E. Scoccimarro, L.-P. Caron, F. Chauvin, L. Terray, S. Valcke, M.-P. Moine, D. Putrasahan, C. Roberts, R. Senan, C. Zarzycki, P. Ullrich, 2020: Impact of model resolution on tropical cyclone simulation using the HighResMIP-PRIMAVERA multi-model ensemble. J. Climate, 33, 7. [https://doi.org/10.1175/JCLI-D-19-0639.1](https://doi.org/10.1175/JCLI-D-19-0639.1)
 
-Roberts, M.J. and 29 Coauthors, 2020: Projected Future Changes in Tropical Cyclones using the CMIP6 HighResMIP Multi-model Ensemble. Geophys. Res. Lett., accepted. [https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL088662](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL088662)
+Roberts, M.J. and 29 Coauthors, 2020: Projected Future Changes in Tropical Cyclones using the CMIP6 HighResMIP Multi-model Ensemble. Geophys. Res. Lett., 47: e2020GL088662. [https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL088662](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2020GL088662)
 
 Roberts, M.J. and 26 Coauthors, 2020: Sensitivity of the Atlantic Meridional Overturning Circulation to Model Resolution in CMIP6 HighResMIP Simulations and Implications for Future Changes. JAMES. [https://doi.org/10.1029/2019MS002014](https://doi.org/10.1029/2019MS002014) 
 
@@ -317,10 +332,15 @@ H. T. Hewitt, M. J. Bell, E. P. Chassignet, A. Czaja, D. Ferreira, S. M. Griffie
 R. J. Haarsma, M. Roberts, P. L. Vidale, C. A. Senior, A. Bellucci, Q. Bao, P. Chang, S. Corti, N. S. Fučkar, V. Guemas, J. von Hardenberg, W. Hazeleger, C. Kodama, T. Koenigk, L. R. Leung, J. Lu, J.-J. Luo, J. Mao, M. S. Mizielinski, R. Mizuta, P. Nobre, M. Satoh, E. Scoccimarro, T. Semmler, J. Small, J.-S. von Storch, 2016: High resolution model intercomparison project (HighResMIP). Geoscientifc Model Development. [https://doi.org/10.5194/gmd-9-4185-2016](https://doi.org/10.5194/gmd-9-4185-2016)
 
 
-## Submitted/in prep (2)
-Docquier, D., Vannitsem, S., Bellucci, A., and Frankignoul, C.: Interactions between ocean heat budget terms in HighResMIP climate models measured by the rate of information transfer, EGUsphere [preprint], [https://doi.org/10.5194/egusphere-2022-1340](https://doi.org/10.5194/egusphere-2022-1340), 2022.
+## Submitted/in prep (3)
+Chen, X., Zhou, T., Wu, P., Roberts, M.J., 2024: Better resolved orography improves precipitation simulation over the Tibetan Plateau in high-resolution models. J. Geophy. Res. (Atmos), revised.
 
-Selivanova, J., Iovino, D., and Cocetta, F.: Past and future of the Arctic sea ice in HighResMIP climate models, EGUsphere [preprint], https://doi.org/10.5194/egusphere-2023-1411, 2023.
+Lockwood, J.F., Athanasiadis, P., Baker, A.J., Hodges, K., Priestley, M.D.K, Roberts, M., Scaife, A.A., Vidale, P. L., Zappa, G., 2024: The effect of increased model resolution on the Northern Hemisphere winter mid-latitude storm track: An equatorward shift due to contraction of the Hadley cell. J. Clim., submitted.
+
+Roberts, M. J., Reed, K. A., Bao, Q., Barsugli, J. J., Camargo, S. J., Caron, L.-P., Chang, P., Chen, C.-T., Christensen, H. M., Danabasoglu, G., Frenger, I., Fučkar, N. S., Hasson, S. U., Hewitt, H. T., Huang, H., Kim, D., Kodama, C., Lai, M., Leung, L.-Y. R., Mizuta, R., Nobre, P., Ortega, P., Paquin, D., Roberts, C. D., Scoccimarro, E., Seddon, J., Treguier, A. M., Tu, C.-Y., Ullrich, P. A., Vidale, P. L., Wehner, M. F., Zarzycki, C. M., Zhang, B., Zhang, W., and Zhao, M., 2024: High Resolution Model Intercomparison Project phase 2 (HighResMIP2) towards CMIP7, EGUsphere [preprint]. [https://doi.org/10.5194/egusphere-2024-2582](https://doi.org/10.5194/egusphere-2024-2582).
+
+Ogawa, F., Minobe, S. Roberts, M.J.,  Haarsma, R., Putrasahan, D., Scoccimarro, E., Terray, L., and Vidale, P.L., 2024: Cause of the recent tendency of tropical cyclones approaching coasts as revealed by HighResMIP-PRIMAVERA simulations. J. Clim., revised.
+
 
 ## Derived datasets
 Roberts, M. (2019): CMIP6 HighResMIP: Tropical storm tracks. Centre for Environmental Data Analysis, *date of citation*. [http://catalogue.ceda.ac.uk/uuid/e82a62d926d7448696a2b60c1925f811](http://catalogue.ceda.ac.uk/uuid/e82a62d926d7448696a2b60c1925f811).
